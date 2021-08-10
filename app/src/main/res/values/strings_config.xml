@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <!-- <string name="private_app_id" translatable="false"><#YOUR APP ID#></string>-->
+    <string name="private_app_id" translatable="false">e16acdb29ca44eaf8c61829ce24fdeb9</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token" translatable="false">006e16acdb29ca44eaf8c61829ce24fdeb9IAAleQfb092G+79Rig8DZpyLMeaDN/PD++6pCmfsIkeuT32diccAAAAAEAC2CAMvf9wKYQEAAQB73Aph</string>
+    <!-- Obtain a temp RTM Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <!--<string name="rtm_access_token" translatable="false">006e16acdb29ca44eaf8c61829ce24fdeb9IAACwUtK6Nj17rA5ymBDnHDFtljIuNFeVDyCdjA5B1FyHZsq044AAAAAEABHKrkKLC4JYQEA6AMsLglh</string>
+-->
+    <string name="rtm_access_token" translatable="false">006e16acdb29ca44eaf8c61829ce24fdeb9IAAHCRHw0n287SR7b6aJqnG+ITkW3Nzro/zWF4YHcsFyjiF1t4sAAAAAEAAsiBtrqzUJYQEA6AOrNQlh</string>
+
+</resources>
